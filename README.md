@@ -19,3 +19,11 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/cards>.
 
+
+#### iex
+
+> iex - interactive elixir shell
+
+And you can use this shell by typing:
+
+> iex -S mix
